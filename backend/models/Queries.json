@@ -1,0 +1,4 @@
+// Find the total amount spend for Booking by every User.
+    db.Ticket.aggregate([{
+        $group:{_id:}
+    }])
